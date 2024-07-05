@@ -22,7 +22,6 @@ For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
 ## Where to edit?
 
-![Video Title](https://img.youtube.com/vi/5QI0xWsJJ4c/0.jpg)
 [![Watch the video](https://img.youtube.com/vi/5QI0xWsJJ4c/0.jpg)](https://www.youtube.com/watch?v=5QI0xWsJJ4c)
 
 ## Making production build
