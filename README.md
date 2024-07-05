@@ -20,7 +20,7 @@ See how to load the extension: https://docs.plasmo.com/framework/workflows/dev#l
 
 For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
-## Where to edit?
+## Click to watch demo ⬇️
 
 [![Watch the video](https://img.youtube.com/vi/5QI0xWsJJ4c/0.jpg)](https://www.youtube.com/watch?v=5QI0xWsJJ4c)
 
